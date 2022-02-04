@@ -5,6 +5,6 @@ public class SkillDemoTest {
     @Test
     public void testSumArray() {
         int[] arr = {1,2,3,4,5};
-        assertEquals(0, SkillDemo.sumArray(arr));
+        assertEquals(15, SkillDemo.sumArray(arr));
     }
 }
